@@ -1,0 +1,232 @@
+body{
+    bottom: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}#img img{
+    position: absolute;
+    width: 202px;
+    height: 63px;
+    left: 58px;
+    top: 27px;
+}#img{
+    background: #FFD900;
+    position: absolute;
+    width: 1840px;
+    height: 118px;
+    left: 0px;
+    top: 0px;
+}.text{
+    background-color: #514988;
+    position: absolute;
+    width: 802px;
+    height: 694px;
+    left: 0px;
+    top: 118px;
+}#text p{
+    position: absolute;
+    width: 678px;
+    height: 350px;
+    left: 64px;
+    top: 250px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}h2{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 690px;
+    font-size: 70px;
+    line-height: 85px;
+    padding-top: 0px;
+    bottom: 0px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}h3{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36.46px;
+    padding-left: 200px;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}h4{
+    position: absolute;
+    width: 800px;
+    height: 33px;
+    left: 89px;
+    top: 800px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #F3C61F    ;
+}#img1{
+    position: absolute;
+    width: 204px;
+    height: 204px;
+    left: 81px;
+    top: 875px;
+    justify-content: space-around;
+}#img2{
+    position: absolute;
+    width: 204px;
+    height: 204px;
+    left: 285px;
+    top: 875px;
+}#img3{
+    position: absolute;
+    width: 204px;
+    height: 204px;
+    left: 489px;
+    top: 875px;
+}#img4{
+    position: absolute;
+    width: 204px;
+    height: 204px;
+    left: 693px;
+    top: 875px;
+}.button{
+    position: absolute;
+    width: 596px;
+    height: 148px;
+    left: 1004px;
+    top: 920px;
+    background: #514988;
+    border-radius: 20px;
+
+    position: absolute;
+}button{
+   
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 51px;
+    
+    position: absolute;
+    width: 596px;
+    height: 148px;
+    padding-left: 90px;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: none;
+    border: none;
+
+    color: #ffffff;
+    
+}button:hover{
+    background: #514988;
+    border-radius: 20px;
+    color: #F3C61F;
+}video{
+    position: absolute;
+    width: 880px;
+    height: 510px;
+    left: 842px;
+    top: 284px;
+
+    background: url(image.png);
+}#timerTxt{
+    position: absolute;
+    width: 741px;
+    height: 36px;
+    left: 842px;
+    top: 230px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #E33881;
+}#dia{
+    position: absolute;
+    width: 239px;
+    height: 175px;
+    left: 842px;
+    top: 50px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #514988;
+}#hora{
+    position: absolute;
+    width: 270px;
+    height: 175px;
+    left: 1037px;
+    top: 50px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #514988;
+
+}#minuto{
+    position: absolute;
+    width: 273px;
+    height: 175px;
+    left: 1243px;
+    top: 50px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #514988;
+}#segundo{
+    position: absolute;
+    width: 239px;
+    height: 175px;
+    left: 1462px;
+    top: 50px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #514988;
+}
